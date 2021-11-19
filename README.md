@@ -1,2 +1,2 @@
 # git-pruebas-nov
-Pruebaas con git
+Pruebas con git para iniciar.
